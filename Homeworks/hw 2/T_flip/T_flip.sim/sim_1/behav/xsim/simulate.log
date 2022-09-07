@@ -1,0 +1,7 @@
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+z = 0
+z = 1
+z = 0
+z = 1
+$finish called at time : 59 ns : File "C:/Users/toure.o/T_flip/T_flip.srcs/sim_1/new/t_fliptb.v" Line 43
